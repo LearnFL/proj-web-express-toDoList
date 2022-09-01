@@ -12,5 +12,5 @@ App saves lists to MongoDB. You can create a custom list by adding a custom list
 
 
 ## Screenshots
-![Screen Shot 2022-08-31 at 8 18 19 PM](https://user-images.githubusercontent.com/86169204/187807690-fca09374-5e80-45e1-b075-4ce12ae5303a.png)
-![Uploading Screen Shot 2022-08-31 at 8.20.07 PM.png…]()
+![1335F2AA-5B97-403F-B36F-7BC57EF9B57C](https://user-images.githubusercontent.com/86169204/187807918-666b4e32-ece5-4f15-a9d4-e897585e117c.PNG)
+![2866CB71-1CE9-4CE7-A3B4-887FA203098C](https://user-images.githubusercontent.com/86169204/187807920-7c41639a-620d-486b-bc2d-a8e10890530d.PNG)
