@@ -8,7 +8,7 @@ NodeJs, ExpressJS, JS, MongoDB.
 - Instagram - [@dennis_r2018](https://www.instagram.com/dennis_r2018)
 
 ### Usage
-App saves lists to MongoDB. You can create a custom list by adding a custom list name to URL, for example Localhost:3000/#####Work-List
+App saves lists to MongoDB. You can create a custom list by adding a custom list name to URL, for example "Localhost:3000/Work-List"
 
 
 ## Screenshots
