@@ -1,7 +1,12 @@
 import mongoose from "mongoose";
 import {getDate} from "../date.mjs"
 
-mongoose.connect('mongodb://localhost:27017/todolistDB');
+// LOCALHOST
+// mongoose.connect('mongodb://localhost:27017/todolistDB');
+
+// ATLAS
+mongoose.connect('mongodb+srv://'+process.env.userName+':'+process.env.atlasPass+'@cluster0.ckkapiv.mongodb.net/?retryWrites=true&w=majority');
+
 
 const itemsSchema = new mongoose.Schema({
   name: { type: String, required: [1]},
