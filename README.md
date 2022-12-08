@@ -5,6 +5,7 @@ NodeJs, ExpressJS, JS, MongoDB.
 
 - Coded by - Dennis Rotnov
 - Challenged by - [London App Brewery](https://www.londonappbrewery.com/)
+- Copyright by London App Brewery.
 - Instagram - [@dennis_r2018](https://www.instagram.com/dennis_r2018)
 
 ### Usage
